@@ -1,4 +1,4 @@
-<h1 align="center">ISW</h1>
+<h1 align="center">ISW - Inginerie Software (Software Engineering)</h1>
 
   <p align="center">
     <a><strong>:point_up: Full Word-File Above :point_up:</strong></a>
