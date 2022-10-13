@@ -13,12 +13,12 @@
   
     * Use-Case Diagram
     
-    ![](https://raw.githubusercontent.com/DanteHTB/ISW/master/src/usecase.png)
+    ![](https://raw.githubusercontent.com/darirak/ISW/master/src/usecase.png)
       
     * Class Diagram
     
-    ![](https://raw.githubusercontent.com/DanteHTB/ISW/master/src/class.png)
+    ![](https://raw.githubusercontent.com/darirak/ISW/master/src/class.png)
        
     * Sequence Diagram
     
-    ![](https://raw.githubusercontent.com/DanteHTB/ISW/master/src/seq.png)
+    ![](https://raw.githubusercontent.com/darirak/ISW/master/src/seq.png)
